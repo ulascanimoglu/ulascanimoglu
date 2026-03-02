@@ -1,37 +1,27 @@
-<h1 align="center">Hi there, I'm Ulaş Canımoğlu 👋</h1>
-<h3 align="center">Software Engineer | Frontend & Mobile Focused</h3>
+# Ulaş Canımoğlu
+**Software Engineer | Frontend & Mobile Architecture**
 
-<p align="center">
-  Specializing in building high-traffic, schema-driven web and React Native applications. I focus on clean architecture, type safety, and pushing the boundaries of rendering performance.
-</p>
+[LinkedIn](https://linkedin.com/in/ulascanimoglu) • [ulascanimoglu@hotmail.com](mailto:ulascanimoglu@hotmail.com)
 
 ---
 
-### 🚀 What I Do
-- **Frontend Architecture:** Building scalable enterprise applications using **React & TypeScript** with a strong emphasis on schema-driven UIs (Zod) and centralized state management.
-- **Mobile Engineering:** Developing cross-platform **React Native** apps optimized for smooth 60fps performance on mid-range devices.
-- **Performance Optimization:** Mitigating circular dependencies, managing complex memoization (`useMemo`, `useCallback`), and optimizing Core Web Vitals (FCP, LCP) via Next.js and Webpack/Vite.
+## Professional Summary
+Software Engineer with over three years of experience in architecting high-traffic, schema-driven web and React Native applications. Specialized in delivering scalable, type-safe frontend infrastructures and optimizing rendering performance for enterprise-grade systems.
 
-### 💡 Key Metrics & Impact
-- Architected the frontend for a distributed enterprise system supporting **75,000+ daily active users** across 40+ locations.
-- Maintained a **99.9% crash-free rate** on production-grade mobile applications.
-- Engineered automated image optimization pipelines (WebP) to significantly reduce initial page load speeds.
+## Technical Expertise
+- **Core Technologies:** TypeScript, JavaScript (ES6+), React, React Native, Next.js
+- **Architecture & State:** Component-based Architecture, Context API, useReducer, Zod (Schema Validation)
+- **Performance Engineering:** Core Web Vitals, FlatList Optimization, Advanced Memoization (`useMemo`, `useCallback`)
+- **Infrastructure & Build:** Webpack, Vite, Git/GitHub, Mobile CI/CD (Fastlane/EAS)
+- **Testing (Current Focus):** Jest, React Testing Library (RTL)
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
+## Professional Impact
+- **Enterprise Scale:** Architected the frontend ecosystem for a distributed management system (HBYS) supporting **75,000+ daily active users** across 40+ locations.
+- **Mobile Reliability:** Engineered a production-grade enterprise React Native application, maintaining a **99.9% crash-free rate** and optimizing mid-range device performance to **60fps**.
+- **Web Performance:** Designed automated image optimization pipelines (WebP) and advanced build configurations to significantly improve First Contentful Paint (FCP) and overall Core Web Vitals.
 
-### 🌱 Currently Exploring
-- Deepening expertise in **Testing (Jest & React Testing Library)** to ensure bulletproof component reliability.
-- Advanced Mobile CI/CD pipelines (Fastlane/EAS).
+## Engineering Philosophy
+Committed to Clean Code principles, SOLID architecture, and proactive problem-solving. Focused on isolating complex production issues (infinite loops, memory leaks) and ensuring long-term code maintainability.
 
-### 📫 Let's Connect
-<p align="left">
-<a href="https://linkedin.com/in/ulascanimoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ulascanimoglu" height="30" width="40" /></a>
-<a href="mailto:ulascanimoglu@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/></a>
-</p>
+---
+*Open to discussions on frontend architecture, mobile optimization, and scalable system design.*
